@@ -2,15 +2,22 @@
 
 ### Steelhead runs depicted by means of Google Earth overlays
 
+[Download Overlays]
+
 GE overlays offer a striking and efficient means of presenting and accessing complex data that are fundamentally geographic. They make use of the highly-developed interactive nature of Google Earth that allows the user quick change from overview to detail.  In particular, the ability to place locallized, labelled icons that expand to text, which in turn may contain links, allows a drilling down to levels way beyond the geographic.
 
 These properties have been used in trying to make sense of the yearly runs of steelhead in the Pacific Northwest. As with all of the projects on this site, the present overlays should be viewed as works-in-progress, and community involvement is invited.  GE overlays are implemented as .kml files, which are human readable in the way that markup files are in general, but for most purposes, one can simply use the high-level editing capabilities of GE itself to modify and extend the overlays presented here.
 
+A medium overview example
 ![Medium overview example](SteelheadRuns_NE_CA_SE_OR.jpg)
 
-[Download Overlays]
+And a medium closeup
+![Medium closeup example](SteelheadRuns_UpperTrinity.png)
+
 
 Much of the data reported in the overlays is referenced internally in the text as links to the data source.  Because of space considerations on GitHub, I have been hesitant to put primary data in the repository (which you can get to by clicking on the "View on GitHub" button in the page header above).  However, I have tried to organize links to the sources there.
+
+### Detailed description from the overlay information pane
 
 __California and Oregon Steelhead Runs - Rich Miller - April 16, 2018__
 
