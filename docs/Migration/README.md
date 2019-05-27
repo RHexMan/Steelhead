@@ -6,6 +6,8 @@ GE overlays offer a striking and efficient means of presenting and accessing com
 
 These properties have been used in trying to make sense of the yearly runs of steelhead in the Pacific Northwest. As with all of the projects on this site, the present overlays should be viewed as works-in-progress, and community involvement is invited.  GE overlays are implemented as .kml files, which are human readable in the way that markup files are in general, but for most purposes, one can simply use the high-level editing capabilities of GE itself to modify and extend the overlays presented here.
 
+![Medium overview example](SteelheadRuns_NE_CA_SE_OR.jpg)
+
 [Download Overlays]
 
 Much of the data reported in the overlays is referenced internally in the text as links to the data source.  Because of space considerations on GitHub, I have been hesitant to put primary data in the repository (which you can get to by clicking on the "View on GitHub" button in the page header above).  However, I have tried to organize links to the sources there.
