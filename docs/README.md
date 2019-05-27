@@ -2,7 +2,7 @@
 
 There are two steelhead projects represented here,
 
-### [Steelhead Runs Google Earth overlays](https://rhexman.github.io/Steelhead/Migrations)
+### [Steelhead Runs Google Earth overlays](https://rhexman.github.io/Steelhead/Migration)
 
 which seeks to ellucidate and document the complex pattern of steelhead spawning migrations along the rivers of the Pacific Northwest, and
 
