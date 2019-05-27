@@ -1,8 +1,8 @@
 [Home](https://rhexman.github.io) > [Steelhead](https://rhexman.github.io/Steelhead/)
 
-### [Download Steelhead Runs overlay](https://github.com/RHexMan/Steelhead/releases/tag/v0.1.0-alpha)
+## [Download Steelhead Runs overlay](https://github.com/RHexMan/Steelhead/releases/tag/v0.1.0-alpha)
 
-Clicking the link will take you to the Steelhead releases page. Click on the word “Assets”, then click on the Steelhead Runs zip. Once the zip arrives on your machine, move it to a suitable location and double click the file to unzip. A folder with nearly the same name will appear next to the zip file. Enter the folder and, in any text editor, read the README_SteelheadRuns.md file.
+Clicking the link will take you to the Steelhead releases page. Click on the word “Assets”, (if necessary) then click on the Steelhead Runs zip. Once the zip arrives on your machine, move it to a suitable location and double click the file to unzip. A folder with nearly the same name will appear next to the zip file. Enter the folder and, in any text editor, read the README_SteelheadRuns.md file.
 
 ## Steelhead runs depicted by means of Google Earth overlays
 
