@@ -1,0 +1,1 @@
+Please think of these maps as works in progress. If you have 1st hand knowledge, would you share it by dropping a note to outings.gpff@gmail.com.The maps print full scale on 11”x17” paper. Comments may be added in Adobe Reader, and the maps may be freely edited in Adobe Illustrator
