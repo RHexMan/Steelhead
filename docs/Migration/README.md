@@ -1,17 +1,19 @@
 [Home](https://rhexman.github.io) > [Steelhead](https://rhexman.github.io/Steelhead/)
 
-### Steelhead runs depicted by means of Google Earth overlays
+### [Download Steelhead Runs overlay](https://github.com/RHexMan/Steelhead/releases/tag/v0.1.0-alpha)
 
-[Download Overlays]
+Clicking the link will take you to the Steelhead releases page. Click on the word “Assets”, then click on the Steelhead Runs zip. Once the zip arrives on your machine, move it to a suitable location and double click the file to unzip. A folder with nearly the same name will appear next to the zip file. Enter the folder and, in any text editor, read the README_SteelheadRuns.md file.
+
+## Steelhead runs depicted by means of Google Earth overlays
 
 GE overlays offer a striking and efficient means of presenting and accessing complex data that are fundamentally geographic. They make use of the highly-developed interactive nature of Google Earth that allows the user quick change from overview to detail.  In particular, the ability to place locallized, labelled icons that expand to text, which in turn may contain links, allows a drilling down to levels way beyond the geographic.
 
 These properties have been used in trying to make sense of the yearly runs of steelhead in the Pacific Northwest. As with all of the projects on this site, the present overlays should be viewed as works-in-progress, and community involvement is invited.  GE overlays are implemented as .kml files, which are human readable in the way that markup files are in general, but for most purposes, one can simply use the high-level editing capabilities of GE itself to modify and extend the overlays presented here.
 
-__A medium overview example__
+### A medium overview example
 ![Medium overview example](SteelheadRuns_NE_CA_SE_OR.jpg)
 
-__And a medium closeup__
+### And a medium closeup
 ![Medium closeup example](SteelheadRuns_UpperTrinity.png)
 
 
