@@ -5,7 +5,7 @@
 
 ## River access and fishing maps
 
-This is series of fishing maps emphasizing wading and swinging flies for steelhead that are provided in the form of scalable vector graphics PDF files.  Consequently, they display in almost any viewer, print in full quality at any resolution, and are readily editable in a number of free open source editors (eg, Inkscape) as well as the widely used Adobe Illustrator (but not Photoshop, which is for bitmapped images). This lets you update and personalize you maps without scribbling on hard copies, but more importantly, makes them ideal for sharing across the fishing community, the ultimate goal of this project.
+This is series of fishing maps emphasizing wading and swinging flies for steelhead that are provided in the form of scalable vector graphics PDF files.  Consequently, they display in almost any viewer, print in full quality at any resolution, and are readily editable in a number of free open source editors (eg, Inkscape) as well as the widely used Adobe Illustrator (but not Photoshop, which is for bitmapped images). This lets you update and personalize your maps without scribbling on hard copies, but more importantly, makes them ideal for sharing across the fishing community, the ultimate goal of this project.
 
 Please think of the maps as works in progress. If you have 1st hand knowledge of particular sites on particular rivers, would you share it by joining this repository or by dropping a note to rich@ski.org. The maps print full scale on 11”x17” paper.
 
