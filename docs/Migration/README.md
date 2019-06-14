@@ -6,7 +6,7 @@ Clicking the link will take you to the Steelhead releases page. Click on the wor
 
 ## Steelhead runs depicted by means of Google Earth overlays
 
-GE overlays offer a striking and efficient means of presenting and accessing complex data that are fundamentally geographic. They make use of the highly-developed interactive nature of Google Earth that allows the user quick change from overview to detail.  In particular, the ability to place locallized, labelled icons that expand to text, which in turn may contain links, allows a drilling down to levels way beyond the geographic.
+GE overlays offer a striking and efficient means of presenting and accessing complex data that are fundamentally geographic. They make use of the highly-developed interactive nature of Google Earth that allows the user quick change from overview to detail.  In particular, the ability to place localized, labelled icons that expand to text, which in turn may contain links, allows a drilling down to levels way beyond the geographic.
 
 These properties have been used in trying to make sense of the yearly runs of steelhead in the Pacific Northwest. As with all of the projects on this site, the present overlays should be viewed as works-in-progress, and community involvement is invited.  GE overlays are implemented as .kml files, which are human readable in the way that markup files are in general, but for most purposes, one can simply use the high-level editing capabilities of GE itself to modify and extend the overlays presented here.
 
